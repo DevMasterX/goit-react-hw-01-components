@@ -22,7 +22,7 @@ export const Description = styled('div')(() => {
     display: 'block',
     width: '100%',
     margin: 'auto',
-    padding: '12px',
+    paddingTop: '12px',
     textAlign: 'center',
   };
 });

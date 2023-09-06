@@ -1,4 +1,4 @@
-import styled, { isStyledComponent } from 'styled-components';
+import styled from 'styled-components';
 
 export const ProfileWrap = styled('div')(() => {
   return {
@@ -9,7 +9,7 @@ export const ProfileWrap = styled('div')(() => {
     width: '400px',
     borderColor: 'grey',
     boxShadow: `0px 0px 5px 0px #000`,
-    borderRadius: '7px',
+    borderRadius: '10px',
     margin: 'auto',
     marginTop: '20px',
     marginBottom: '40px',

@@ -37,8 +37,7 @@ export const StatisticsItem = styled('li')(() => {
     display: 'flex',
     flex: 1,
     flexDirection: 'column',
-    // alignItems: 'center',
-    // justifyContent: 'space-between',
+
     paddingBottom: '20px',
     paddingTop: '20px',
     border: '1px solid #ccc',

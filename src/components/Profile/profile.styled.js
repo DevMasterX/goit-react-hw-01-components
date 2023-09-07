@@ -2,10 +2,6 @@ import styled from 'styled-components';
 
 export const ProfileWrap = styled('div')(() => {
   return {
-    // display: 'flex',
-    // flexDirection: 'column',
-    // justifyContent: 'center',
-
     width: '400px',
     borderColor: 'grey',
     boxShadow: `0px 0px 5px 0px #000`,
@@ -51,7 +47,6 @@ export const StatsList = styled('ul')(() => {
     justifyContent: 'space-evenly',
     margin: '0',
     padding: '0',
-    // listStyle: 'none',
     backgroundColor: '#f0f0f0',
   };
 });

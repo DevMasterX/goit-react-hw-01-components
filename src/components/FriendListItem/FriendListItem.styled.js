@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const Friend = styled('li')(() => {
   return {
     display: 'flex',
-
     justifyContent: 'start',
     alignItems: 'center',
     gap: '30px',
